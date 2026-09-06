@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mousou-chokin-v5';
+const CACHE_NAME = 'mousou-chokin-v6';
 const ASSETS = [
   './',
   './index.html',
